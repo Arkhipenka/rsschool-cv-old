@@ -4,7 +4,7 @@
 
 ## **Contact**
 
-**tel**: +48733259097 **mail**:europeoplebelarus@gmail.com
+**tel**: +48733259097 **mail**: europeoplebelarus@gmail.com
 
 ## **About**
 
@@ -14,7 +14,8 @@ I do not want to write what everyone writes, I will write what I think. I’m ti
 
     html,css,js,git,Sass,Node.js
 
-## __Code Example__
+## **Code Example**
+
 ```
 function sum(a, b) {
   return a + b;
@@ -26,9 +27,7 @@ alert( result );
 
 ## **Course**
 
-https://github.com/Arkhipenka/git
-
-Mentoring course JavaScript(link for task is up)
+[Mentoring course JavaScript](https://github.com/Arkhipenka/git)
 
 ## **Education**
 
