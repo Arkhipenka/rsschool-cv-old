@@ -1,19 +1,29 @@
-# __[rsschool-cv](https://kryvetski-andrei.github.io/rsschool-cv/)__
-# __Arkhipenka Andrei__
-2.  _tel_: +48733259097 _mail_:europeoplebelarus@gmail.com
-3.  I do not want to write what everyone writes, I will write what I think. I’m tired of the situation in my life, and the work of a web developer at EPAM is a chance to change my life and I will try to do everything for this. Some facts about me would be better for me.
-    - I am leader of civil company perpetuating memory belorusian writer Ales Adamovich.
-    - I were realisat four succesful cultural project(Prypynak Adamovicha, Glusha Adamovicha,. monument Adamovich, Darmaed.by(inactive))
-    - I were finalist Social Weekend and "Heritage in action"(ICOMOS)
-    - I have been awarded three prizes in Civil Activizm(RadaAwards2019, "Champions of civil activizm", "About us")
-    - Famous peoples(Aleksievich, Zisser and other) and media have respect and trust me .
-    - I am finished two successful fandraising company at cultural projects
-    - I am member of social project "Kalibri". Mobile app makes EPAM(I agreed on cooperation)
-    - In the 2019 year I finished Javascript mentoring program.
-    - In the 2022 year I finished Frontend RS School stage 1
-    - Co-organizer of the collection of aid for Ukraine. #studencidlaukrainy on the territory of the University of Gdansk List can be very long, but I am finishing it. _I learned all this on my own, and am ready to make the same efforts at work_
-4.  _slills_:html,css,js,git,Sass,Node.js
-5.  https://github.com/Arkhipenka/git
-6.  Mentoring course JavaScript(link for task is up)
-7.  History faculty BSU. WNS Universitet of Gdansk, Politologia magister. Mentorinf course javascript RSSchool
-8.  _English_ pre-intermediate
+# **[rsschool-cv](https://kryvetski-andrei.github.io/rsschool-cv/)**
+
+# **Arkhipenka Andrei**
+
+## **Contact**
+
+**tel**: +48733259097 **mail**:europeoplebelarus@gmail.com
+
+## **About**
+
+I do not want to write what everyone writes, I will write what I think. I’m tired of the situation in my life, and the work of a web developer at EPAM is a chance to change my life and I will try to do everything for this. Some facts about me would be better for me. - I am leader of civil company perpetuating memory belorusian writer Ales Adamovich. - I were realisat four succesful cultural project(Prypynak Adamovicha, Glusha Adamovicha,. monument Adamovich, Darmaed.by(inactive)) - I were finalist **Social Weekend** and **"Heritage in action"(ICOMOS)** - I have been awarded three prizes in Civil Activizm(**RadaAwards2019**, **"Champions of civil activizm"**, **"About us"**) - Famous peoples(**Aleksievich**, **Zisser** and other) and media have respect and trust me . - I am finished two successful fandraising company at cultural projects - I am member of social **project "Kalibri"**. Mobile app makes EPAM(I agreed on cooperation) - In the 2019 year I finished **Javascript mentoring program**. - In the 2022 year I finished **Frontend RS School stage 1** - Co-organizer of the collection of aid for Ukraine. **#studencidlaukrainy** on the territory of the University of Gdansk List can be very long, but I am finishing it. _I learned all this on my own, and am ready to make the same efforts at work_
+
+## **slills:**
+
+    html,css,js,git,Sass,Node.js
+
+## **Course**
+
+https://github.com/Arkhipenka/git
+
+Mentoring course JavaScript(link for task is up)
+
+## **Education**
+
+History faculty BSU. WNS Universitet of Gdansk, Politologia magister. Mentorinf course javascript RSSchool
+
+## **Language**
+
+_English_ pre-intermediate _Russian_ Native _Belorusian_ Native _Polish_ B1
