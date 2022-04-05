@@ -1,0 +1,256 @@
+body {
+    margin: 0;
+  }
+  header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-self: center;
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    background-color: rgb(252, 252, 252);
+    box-sizing: border-box;
+  }
+  .header {
+    font-size: 30px;
+    background: -webkit-linear-gradient(rgb(4, 0, 255), rgb(255, 209, 4));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: auto 0;
+  }
+  .nav {
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    justify-content: center;
+    min-height: 50px;
+    list-style: none;
+    margin: 0;
+  }
+  
+  .nav li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    padding: 0 25px;
+    margin-bottom: 0;
+  }
+  .nav li a {
+    text-decoration: none;
+    font-weight: bolder;
+    color: rgb(253, 4, 4);
+  }
+  .nav li:hover {
+    border-bottom: 4px solid rgb(216, 45, 82);
+    background-color: rgb(240, 126, 126);
+  }
+  .nav li:hover > a {
+    color: rgb(255, 255, 255);
+  }
+  main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Arial', sans-serif;
+    align-items: center;
+  }
+  .block-img {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 50px;
+    padding: 50px 0;
+    background: linear-gradient(rgb(30, 15, 170) 50%, rgb(226, 230, 14) 50%);
+  }
+  .photo {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border: 5px solid rgb(167, 38, 38);
+  }
+  h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 38px;
+    margin: 15px 0;
+  }
+  .social {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  .social li {
+    list-style: none;
+    width: 45px;
+    height: 45px;
+    margin: 10px 15px;
+  }
+  .social li img {
+    width: 45px;
+    height: 45px;
+  }
+  .about,
+  .education {
+    width: 100%;
+    background-color: rgb(124, 4, 4);
+    padding: 40px;
+    color: bisque;
+    box-sizing: border-box;
+  }
+  .about-content {
+    margin: 10px 50px;
+  }
+  .about-content a {
+    text-decoration: none;
+    color: turquoise;
+  }
+  .about-content a:hover {
+    text-decoration: underline;
+  }
+  h2,
+  .txt-content {
+    text-align: center;
+  }
+  .txt-content,
+  li {
+    margin-bottom: 15px;
+  }
+  .skills {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+  }
+  .content-box {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .content-box div {
+    padding: 15px;
+    line-height: 40px;
+    border: 2px solid slateblue;
+    width: 100%;
+    justify-content: center;
+  }
+  .content-box ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .content-box h5 {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .hard {
+    background-color: indigo;
+    color: blanchedalmond;
+    border-color: blanchedalmond;
+  }
+  
+  .soft {
+    background-color: coral;
+    color: blanchedalmond;
+  }
+  .lang {
+    background-color: darkslategrey;
+    color: blanchedalmond;
+  }
+  .lang ul {
+    list-style: none;
+    padding: 0;
+  }
+  .lang li {
+    margin: 0;
+  }
+  .content-box div li {
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid black;
+  }
+  
+  .education div {
+    margin: 10px 50px;
+    padding: 0 20px;
+    border: 2px solid rgb(199, 184, 184);
+  }
+  .BSU {
+    background: #fff url('img/BSU.png') no-repeat 50% 50%;
+    color: black;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  .UG {
+    background: #fff url('img/UG.png') no-repeat 50% 50%;
+    color: black;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  pre {
+    background-color: rgb(51, 48, 53);
+    width: 80%;
+    padding: 10px;
+    color: antiquewhite;
+    font-weight: bold;
+    box-sizing: border-box;
+    overflow: scroll;
+  }
+  .example {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-self: center;
+    width: 100%;
+    height: 100px;
+    color: bisque;
+    background-color: rgb(167, 38, 38);
+  }
+  .dark-blue {
+    color: darkblue;
+  }
+  .blue {
+    color: aqua;
+  }
+  .yellow {
+    color: darkgoldenrod;
+  }
+  .orange {
+    color: orangered;
+  }
+  .natusest-block {
+    width: 300px;
+    height: 300px;
+    background: papayawhip url('img/Natusest.jpg') no-repeat 0% 0%;
+  }
+  .git,
+  .logo-rs {
+    align-self: center;
+  }
+  .git img {
+    height: 70px;
+  }
+  .footer-text {
+    font-size: 1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .logo-rs img {
+    width: 70px;
+    height: 70px;
+  }
+  
