@@ -1,4 +1,4 @@
-# **[rsschool-cv](https://kryvetski-andrei.github.io/rsschool-cv/)**
+# **[rsschool-cv](https://Arkhipenka.github.io/rsschool-cv/)**
 
 # **Arkhipenka Andrei**
 
