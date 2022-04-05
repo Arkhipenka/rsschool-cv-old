@@ -14,6 +14,16 @@ I do not want to write what everyone writes, I will write what I think. I’m ti
 
     html,css,js,git,Sass,Node.js
 
+## __Code Example__
+```
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert( result );
+```
+
 ## **Course**
 
 https://github.com/Arkhipenka/git
