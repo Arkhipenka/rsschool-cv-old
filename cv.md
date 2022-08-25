@@ -4,8 +4,8 @@
 
 ## **Contact**
 
-**tel**: +48733259097
-**mail**:europeoplebelarus@gmail.com
+**tel**: +48733259097.</br>
+**mail**:europeoplebelarus@gmail.com.
 
 ## **About**
 
@@ -39,7 +39,7 @@ Mentoring course javascript RS School
 
 ## **Language**
 
-_English_ pre-intermediate
-_Russian_ Native
-_Belorusian_ Native
-_Polish_ B1
+_English_ pre-intermediate.
+_Russian_ Native.
+_Belorusian_ Native.
+_Polish_ B1.
