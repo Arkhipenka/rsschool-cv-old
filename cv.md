@@ -33,13 +33,13 @@ Mentoring course JavaScript(link for task is up)
 
 ## **Education**
 
-History faculty BSU.
-WNS, University of Gdansk, Master of Political Sсience .
+History faculty BSU.</br>
+WNS, University of Gdansk, Master of Political Sсience .</br>
 Mentoring course javascript RS School
 
 ## **Language**
 
-_English_ pre-intermediate.
-_Russian_ Native.
-_Belorusian_ Native.
+_English_ pre-intermediate.</br>
+_Russian_ Native.</br>
+_Belorusian_ Native.</br>
 _Polish_ B1.
